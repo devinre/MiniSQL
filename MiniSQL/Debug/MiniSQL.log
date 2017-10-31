@@ -1,0 +1,26 @@
+﻿  main.cpp
+d:\新桌面\浙江大学\数据库系统\minisql\minisql\minisql\main.cpp(10): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: 参见“strcpy”的声明
+d:\新桌面\浙江大学\数据库系统\minisql\minisql\minisql\main.cpp(18): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\新桌面\浙江大学\数据库系统\minisql\minisql\minisql\main.cpp(120): warning C4018: “<”: 有符号/无符号不匹配
+d:\新桌面\浙江大学\数据库系统\minisql\minisql\minisql\main.cpp(224): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: 参见“strcpy”的声明
+d:\新桌面\浙江大学\数据库系统\minisql\minisql\minisql\main.cpp(233): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: 参见“strcpy”的声明
+d:\新桌面\浙江大学\数据库系统\minisql\minisql\minisql\main.cpp(270): warning C4018: “<”: 有符号/无符号不匹配
+d:\新桌面\浙江大学\数据库系统\minisql\minisql\minisql\main.cpp(276): warning C4018: “<”: 有符号/无符号不匹配
+d:\新桌面\浙江大学\数据库系统\minisql\minisql\minisql\main.cpp(304): warning C4018: “<”: 有符号/无符号不匹配
+d:\新桌面\浙江大学\数据库系统\minisql\minisql\minisql\main.cpp(307): warning C4018: “<”: 有符号/无符号不匹配
+d:\新桌面\浙江大学\数据库系统\minisql\minisql\minisql\main.cpp(316): warning C4018: “<”: 有符号/无符号不匹配
+d:\新桌面\浙江大学\数据库系统\minisql\minisql\minisql\main.cpp(319): warning C4018: “<”: 有符号/无符号不匹配
+d:\新桌面\浙江大学\数据库系统\minisql\minisql\minisql\main.cpp(330): warning C4018: “<”: 有符号/无符号不匹配
+d:\新桌面\浙江大学\数据库系统\minisql\minisql\minisql\main.cpp(333): warning C4018: “<”: 有符号/无符号不匹配
+d:\新桌面\浙江大学\数据库系统\minisql\minisql\minisql\main.cpp(341): warning C4018: “<”: 有符号/无符号不匹配
+d:\新桌面\浙江大学\数据库系统\minisql\minisql\minisql\main.cpp(344): warning C4018: “<”: 有符号/无符号不匹配
+d:\新桌面\浙江大学\数据库系统\minisql\minisql\minisql\main.cpp(347): warning C4018: “<”: 有符号/无符号不匹配
+d:\新桌面\浙江大学\数据库系统\minisql\minisql\minisql\main.cpp(351): warning C4018: “<”: 有符号/无符号不匹配
+d:\新桌面\浙江大学\数据库系统\minisql\minisql\minisql\main.cpp(368): warning C4018: “<”: 有符号/无符号不匹配
+d:\新桌面\浙江大学\数据库系统\minisql\minisql\minisql\main.cpp(371): warning C4018: “<”: 有符号/无符号不匹配
+  MiniSQL.vcxproj -> D:\新桌面\浙江大学\数据库系统\minisql\MiniSQL\Debug\MiniSQL.exe
+  MiniSQL.vcxproj -> D:\新桌面\浙江大学\数据库系统\minisql\MiniSQL\Debug\MiniSQL.pdb (Partial PDB)

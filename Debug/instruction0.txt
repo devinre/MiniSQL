@@ -1,0 +1,3 @@
+insert into student2 values(1080100001,'name1',99);
+insert into student2 values(1080100002,'name2',52.5);
+insert into student2 values(1080100003,'name3',98.5);
